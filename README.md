@@ -20,6 +20,9 @@ El contenido del repositorio fue desarrollado en Laravel asi como en el lenguaje
 ¡Muchas gracias por leer!
 ## Uso del Proyecto![App Screenshot](https://i.ibb.co/t45d3mL/asdasd.png)
 
+
+
+
 Como se puede observar, el proyecto cuenta con un tema principal asi como secciones en la parte superior de la misma. 
 
 Anteriormente se trabajo de manera local como fue solicitado en el parcial anterior.
@@ -31,4 +34,5 @@ A partir de la unidad 1 tema "Componentes del Modelo Cliente Servidor" en adelan
 
 
 ¡Muchas gracias por leer!
+
 
